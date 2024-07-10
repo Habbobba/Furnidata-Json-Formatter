@@ -22,6 +22,6 @@ It takes the input file with unformatted furnidata JSON data and outputs a forma
 
 This script was created by Gizmo.
 
-## Donate
+## Contact
 
-If you wish to donate, please contact Gizmo#1813 on Discord.
+Gizmo_1813 on Discord.
